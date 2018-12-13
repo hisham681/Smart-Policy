@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="0">
+        <record id="collection_id" model="res.groups">
+            <field name="name">Collection Officer</field>
+        </record>
+         <record id="smart_policy_id" model="res.groups">
+            <field name="name">Policy Officer</field>
+        </record>
+
+    </data>
+</odoo>
